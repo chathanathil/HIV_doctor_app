@@ -1,0 +1,12 @@
+.navbar {
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+  height: 4vw;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 2vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+}
+.navbar img {
+  width: 3vw;
+}

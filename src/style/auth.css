@@ -1,0 +1,17 @@
+.main-body-auth {
+  /* height: 100%;
+  padding-top: 15vw;
+  width: 100%; */
+}
+.main-content-auth {
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  flex-direction: column;
+  margin: auto;
+  padding-top: 7vw;
+  width: 35%;
+}
+.main-content-auth input {
+  margin-bottom: 2vw;
+}
